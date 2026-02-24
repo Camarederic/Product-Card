@@ -37,6 +37,10 @@ html {
   border: 0.1rem solid transparent;
 }
 
+.img.change {
+  border: 0.1rem solid #444;
+}
+
 .img img {
   width: 100%;
   height: 100%;
